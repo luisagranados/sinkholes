@@ -1,0 +1,8 @@
+plotly
+pandas
+numpy
+jupyter 
+notebook
+gsutil
+kaleido
+requests
