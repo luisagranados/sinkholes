@@ -6,3 +6,5 @@ notebook
 gsutil
 kaleido
 requests
+matplotlib
+scikit-learn
