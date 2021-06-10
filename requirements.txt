@@ -8,3 +8,4 @@ kaleido
 requests
 matplotlib
 scikit-learn
+statsmodels
